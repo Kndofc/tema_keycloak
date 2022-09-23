@@ -1,9 +1,8 @@
 # Keycloak Tema
 
 - Necessário ter o Docker instalado na sua máquina
-- Instruções abaixo para poder rodar o programa
 - Rodar necessariamente em um terminal linux (Usado por mim: ubuntu 20.04.5 LTS, baixado pela Microsoft Store)
-
+- Instruções abaixo para poder rodar o programa caso queira fazer a mão, senão apenas colocar os arquivos dentro da pasta "keycloak"
 
 ### 1. Rodar banco de dados para o Keycloak (Postgres)
 Atenção: Configurar a pasta Volume em seu ambiente e substitua (~/database/postgres)
