@@ -15,6 +15,11 @@
     
     
 }
+
+.login-pf{
+    background: #3D3935;
+}
+
 /*mudando a cor dos links*/
 .btn-primary{
    background-image: linear-gradient(to bottom, #e03e52 0%, #ef3340 100%);
